@@ -1,0 +1,23 @@
+{
+  "name": "july-cli",
+  "version": "1.0.0",
+  "description": "脚手架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "lego-test": "bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/956855391/lego-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/956855391/lego-cli/issues"
+  },
+  "homepage": "https://github.com/956855391/lego-cli#readme"
+}
