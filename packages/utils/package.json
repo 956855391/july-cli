@@ -1,6 +1,6 @@
 {
   "name": "@july-cli/utils",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "utils",
   "author": "zhouhongin <zhouhonglin@xd.com>",
   "homepage": "https://github.com/956855391/july-cli/tree/main/packages/utils#readme",
@@ -22,5 +22,8 @@
   },
   "bugs": {
     "url": "https://github.com/956855391/july-cli/issues"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }

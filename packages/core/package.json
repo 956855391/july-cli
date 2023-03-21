@@ -1,6 +1,6 @@
 {
   "name": "@july-cli/core",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "core",
   "author": "zhouhongin <zhouhonglin@xd.com>",
   "homepage": "https://github.com/956855391/july-cli/tree/main/packages/core#readme",
@@ -28,5 +28,9 @@
   },
   "bugs": {
     "url": "https://github.com/956855391/july-cli/issues"
+  },
+  "gitHead": "d4164904f152b33cef26fcdeef9755cbfe7122ea",
+  "publishConfig": {
+    "access": "public"
   }
 }
