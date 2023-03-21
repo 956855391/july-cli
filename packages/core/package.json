@@ -1,6 +1,6 @@
 {
   "name": "@july-cli/core",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "core",
   "author": "zhouhongin <zhouhonglin@xd.com>",
   "homepage": "https://github.com/956855391/july-cli/tree/main/packages/core#readme",
@@ -21,7 +21,7 @@
     "url": "git+https://github.com/956855391/july-cli.git"
   },
   "dependencies": {
-    "@july-cli/utils": "^1.0.2"
+    "@july-cli/utils": "^1.0.3"
   },
   "scripts": {
     "test": "node ./__tests__/core.test.js"
